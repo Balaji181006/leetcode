@@ -12,9 +12,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0598-range-addition-ii](https://github.com/Balaji181006/leetcode/tree/master/0598-range-addition-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/Balaji181006/leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Balaji181006/leetcode/tree/master/1480-running-sum-of-1d-array) |
+## Math
+|  |
+| ------- |
+| [0598-range-addition-ii](https://github.com/Balaji181006/leetcode/tree/master/0598-range-addition-ii) |
 <!---LeetCode Topics End-->
