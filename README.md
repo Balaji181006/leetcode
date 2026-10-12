@@ -22,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0598-range-addition-ii](https://github.com/Balaji181006/leetcode/tree/master/0598-range-addition-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/Balaji181006/leetcode/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
