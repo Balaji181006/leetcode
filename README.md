@@ -9,10 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Balaji181006/leetcode/tree/master/0344-reverse-string) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Balaji181006/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Array
 |  |
 | ------- |
 | [0598-range-addition-ii](https://github.com/Balaji181006/leetcode/tree/master/0598-range-addition-ii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Balaji181006/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1480-running-sum-of-1d-array](https://github.com/Balaji181006/leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
@@ -26,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/Balaji181006/leetcode/tree/master/1791-find-center-of-star-graph) |
+## Hash Table
+|  |
+| ------- |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Balaji181006/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 <!---LeetCode Topics End-->
