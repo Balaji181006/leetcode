@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Balaji181006/leetcode/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/Balaji181006/leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Balaji181006/leetcode/tree/master/0392-is-subsequence) |
 ## String
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Balaji181006/leetcode/tree/master/0075-sort-colors) |
 | [0598-range-addition-ii](https://github.com/Balaji181006/leetcode/tree/master/0598-range-addition-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Balaji181006/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1030-matrix-cells-in-distance-order](https://github.com/Balaji181006/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Balaji181006/leetcode/tree/master/0075-sort-colors) |
 | [1030-matrix-cells-in-distance-order](https://github.com/Balaji181006/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Balaji181006/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Matrix
@@ -92,5 +95,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Balaji181006/leetcode/tree/master/0075-sort-colors) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Balaji181006/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Balaji181006/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
