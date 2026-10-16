@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Balaji181006/leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Balaji181006/leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Balaji181006/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Balaji181006/leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Balaji181006/leetcode/tree/master/0392-is-subsequence) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Balaji181006/leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Balaji181006/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/Balaji181006/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Balaji181006/leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Balaji181006/leetcode/tree/master/0283-move-zeroes) |
 | [0598-range-addition-ii](https://github.com/Balaji181006/leetcode/tree/master/0598-range-addition-ii) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Balaji181006/leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Balaji181006/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Balaji181006/leetcode/tree/master/0217-contains-duplicate) |
 | [1030-matrix-cells-in-distance-order](https://github.com/Balaji181006/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Balaji181006/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
