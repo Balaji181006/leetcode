@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Balaji181006/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Balaji181006/leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Balaji181006/leetcode/tree/master/0392-is-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Balaji181006/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Balaji181006/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Balaji181006/leetcode/tree/master/0242-valid-anagram) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Balaji181006/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Balaji181006/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Linked List
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Balaji181006/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Balaji181006/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Balaji181006/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Balaji181006/leetcode/tree/master/0242-valid-anagram) |
 | [1030-matrix-cells-in-distance-order](https://github.com/Balaji181006/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Balaji181006/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Matrix
