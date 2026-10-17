@@ -142,5 +142,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0196-delete-duplicate-emails](https://github.com/Balaji181006/leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0596-classes-with-at-least-5-students](https://github.com/Balaji181006/leetcode/tree/master/0596-classes-with-at-least-5-students) |
 <!---LeetCode Topics End-->
