@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Balaji181006/leetcode/tree/master/0283-move-zeroes) |
 | [0598-range-addition-ii](https://github.com/Balaji181006/leetcode/tree/master/0598-range-addition-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Balaji181006/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0704-binary-search](https://github.com/Balaji181006/leetcode/tree/master/0704-binary-search) |
 | [1030-matrix-cells-in-distance-order](https://github.com/Balaji181006/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/Balaji181006/leetcode/tree/master/1037-valid-boomerang) |
 | [1480-running-sum-of-1d-array](https://github.com/Balaji181006/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Balaji181006/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0367-valid-perfect-square](https://github.com/Balaji181006/leetcode/tree/master/0367-valid-perfect-square) |
+| [0704-binary-search](https://github.com/Balaji181006/leetcode/tree/master/0704-binary-search) |
 ## Recursion
 |  |
 | ------- |
