@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Balaji181006/leetcode/tree/master/0392-is-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Balaji181006/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1108-defanging-an-ip-address](https://github.com/Balaji181006/leetcode/tree/master/1108-defanging-an-ip-address) |
+| [1859-sorting-the-sentence](https://github.com/Balaji181006/leetcode/tree/master/1859-sorting-the-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Balaji181006/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2678-number-of-senior-citizens](https://github.com/Balaji181006/leetcode/tree/master/2678-number-of-senior-citizens) |
 ## Array
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Balaji181006/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Balaji181006/leetcode/tree/master/0242-valid-anagram) |
 | [1030-matrix-cells-in-distance-order](https://github.com/Balaji181006/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
+| [1859-sorting-the-sentence](https://github.com/Balaji181006/leetcode/tree/master/1859-sorting-the-sentence) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Balaji181006/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Matrix
 |  |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Balaji181006/leetcode/tree/master/0075-sort-colors) |
+| [1859-sorting-the-sentence](https://github.com/Balaji181006/leetcode/tree/master/1859-sorting-the-sentence) |
 ## Binary Search
 |  |
 | ------- |
