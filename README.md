@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1030-matrix-cells-in-distance-order](https://github.com/Balaji181006/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/Balaji181006/leetcode/tree/master/1037-valid-boomerang) |
 | [1480-running-sum-of-1d-array](https://github.com/Balaji181006/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Balaji181006/leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Balaji181006/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Balaji181006/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Balaji181006/leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
@@ -152,5 +153,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Balaji181006/leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Balaji181006/leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 <!---LeetCode Topics End-->
