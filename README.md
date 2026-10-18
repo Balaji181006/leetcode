@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Balaji181006/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Balaji181006/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Balaji181006/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/Balaji181006/leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2678-number-of-senior-citizens](https://github.com/Balaji181006/leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Balaji181006/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Prefix Sum
@@ -148,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/Balaji181006/leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0596-classes-with-at-least-5-students](https://github.com/Balaji181006/leetcode/tree/master/0596-classes-with-at-least-5-students) |
+## Greedy
+|  |
+| ------- |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/Balaji181006/leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 <!---LeetCode Topics End-->
