@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Balaji181006/leetcode/tree/master/0069-sqrtx) |
 | [0292-nim-game](https://github.com/Balaji181006/leetcode/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/Balaji181006/leetcode/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/Balaji181006/leetcode/tree/master/0509-fibonacci-number) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Balaji181006/leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Balaji181006/leetcode/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Balaji181006/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0367-valid-perfect-square](https://github.com/Balaji181006/leetcode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/Balaji181006/leetcode/tree/master/0704-binary-search) |
@@ -164,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Balaji181006/leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Balaji181006/leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Balaji181006/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
