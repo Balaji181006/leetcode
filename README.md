@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Balaji181006/leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2678-number-of-senior-citizens](https://github.com/Balaji181006/leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Balaji181006/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Balaji181006/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/Balaji181006/leetcode/tree/master/1791-find-center-of-star-graph) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Balaji181006/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1030-matrix-cells-in-distance-order](https://github.com/Balaji181006/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Balaji181006/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Brainteaser
 |  |
 | ------- |
